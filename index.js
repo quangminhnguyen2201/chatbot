@@ -10,7 +10,7 @@ var rl = readline.createInterface({
 var nameSender;
  
 // Create simple echo bot
-login({email: "", password: ""}, function callback (err, api) {
+login({email: "minhnq22", password: "gt3q2-fls09-D12M5-##98#"}, function callback (err, api) {
     if(err) {
         switch (err.error) {
             case 'login-approval':
